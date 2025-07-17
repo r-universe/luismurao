@@ -5,6 +5,9 @@
 [submodule "bamm"]
 	path = bamm
 	url = https://github.com/luismurao/bamm
+[submodule "fpROC"]
+	path = fpROC
+	url = https://github.com/luismurao/fproc
 [submodule "tenm"]
 	path = tenm
 	url = https://github.com/luismurao/tenm
